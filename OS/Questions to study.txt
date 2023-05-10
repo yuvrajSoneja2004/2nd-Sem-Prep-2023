@@ -1,0 +1,41 @@
+--> OS Questions
+Started - 10/05/2023
+
+Deadline - 20 May (10 Days)
+All the best! 
+PS- You Love computer stuff (that also involves OS and stuff 😁)
+
+
+------------------------------------------------TWO TIMES QUESTIONS------------------------------------------------
+
+
+Q1) Define OS. Also write its major functions and services. [8 Marks | atLeast 2.5Pages]{2 times}
+Q2) What is interrupt? Write in brief on I/O interrupts. [8 Marks | atLeast 2.5Pages] {2 times}
+Q3) What is DMA? Write its working principle. [8 Marks | atLeast 2.5Pages]{2 times}
+Q4) Define File.Explain different file attributes. [8 Marks | atLeast 2.5Pages] {2 times}
+Q5) Explain Direct Access Method in detail along with its advantages and disadvantages. [8 Marks | atLeast 2.5Pages]{2 times}
+Q6)Discuss about File protection and Access Control mechanisms. [8 Marks | atLeast 2.5Pages] }{2 times}
+Q7)What is Process? Describe different states of a process along with process state transition diagrams. [8 Marks | atLeast 2.5Pages] {2 times}
+Q8) What is PCB? What does it contains? Explain. [8 Marks | atLeast 2.5Pages] {2 times}
+Q9) Describe in brief on "CPU Scheduling" along with its merits. [8 Marks | atLeast 2.5Pages] {2 times}
+Q10) What is deadlock? What are its necessary conditions? How Deadlocks can be avoided? [8 Marks | atLeast 2.5Pages]{2 times}
+Q11) How deadlock can be prevented? [8 Marks | atLeast 2.5Pages] {2 times}
+Q12) Explain about Deadlock detection and recovery techniques [8 Marks | atLeast 2.5Pages] {2 times}
+Q13)What is Swapping? Also compare internal Memory Fregmentation and External Memory Fragmentation. [16 Marks | atLeast 5 Pages] [8 Marks | atLeast 2.5Pages] {2 times}
+
+
+------------------------------------------------ONE TIME QUESTIONS---------------------------------------------------
+
+Q1) What is directory structure? Explain different types of directory structure. [8 Marks | atLeast 2.5Pages]{1 time}
+Q2)Explain in detail about various types of OS. [8 Marks | atLeast 2.5Pages] {1 time}
+Q3) Explain Dual-Mode Operations in detail along with a diagram. [8 Marks | atLeast 2.5Pages]
+Q4) Explain Index-Sequential Access Method in detail along with its advantages and applications. [8 Marks | atLeast 2.5Pages]
+Q5) D/B long-term , medium-term and short-term scheduler. [8 Marks | atLeast 2.5Pages] {1 time}
+Q6) Discuss Priority based scheduling with an example. [8 Marks | atLeast 2.5Pages] {1 time}
+Q7) Explain FCFS , R-R algorithms with suitable examples [8 Marks | atLeast 2.5Pages] {1 time}
+
+Write short notes on
+q) Physical Address space
+
+
+
