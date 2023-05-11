@@ -9,7 +9,7 @@ PS- You Love computer stuff (that also involves OS and stuff 😁)
 ------------------------------------------------TWO TIMES QUESTIONS------------------------------------------------
 
 
-Q1) Define OS. Also write its major functions and services. [8 Marks | atLeast 2.5Pages]{2 times}
+ [DONE]     Q1) Define OS. Also write its major functions and services. [8 Marks | atLeast 2.5Pages]{2 times}
 Q2) What is interrupt? Write in brief on I/O interrupts. [8 Marks | atLeast 2.5Pages] {2 times}
 Q3) What is DMA? Write its working principle. [8 Marks | atLeast 2.5Pages]{2 times}
 Q4) Define File.Explain different file attributes. [8 Marks | atLeast 2.5Pages] {2 times}
