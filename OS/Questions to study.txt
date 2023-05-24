@@ -33,8 +33,8 @@ Q13) [DONE]What is Swapping? Also compare internal Memory Fregmentation and Exte
 [DONE]    Q2)Explain in detail about various types of OS. [8 Marks | atLeast 2.5Pages] {1 time}
 [DONE]    Q3) Explain Dual-Mode Operations in detail along with a diagram. [8 Marks | atLeast 2.5Pages]
 Q4) Explain Index-Sequential Access Method in detail along with its advantages and applications. [8 Marks | atLeast 2.5Pages]
-Q5) D/B long-term , medium-term and short-term scheduler. [8 Marks | atLeast 2.5Pages] {1 time}
-Q6) Discuss Priority based scheduling with an example. [8 Marks | atLeast 2.5Pages] {1 time}
+[DONE]Q5) D/B long-term , medium-term and short-term scheduler. [8 Marks | atLeast 2.5Pages] {1 time}
+[DONE]Q6) Discuss Priority based scheduling with an example. [8 Marks | atLeast 2.5Pages] {1 time}
 Q7) Explain FCFS , R-R algorithms with suitable examples [8 Marks | atLeast 2.5Pages] {1 time}
 
 Write short notes on
