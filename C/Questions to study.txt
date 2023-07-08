@@ -1,0 +1,29 @@
+1) What is C Language? Write its basic structure and explain. [8 Marks]
+2) Describe all operators in C language. [2 times]
+3)Describe all data types in C language. [2 times]
+4)Describe in brief some mathemetical functions in C.
+5)What is GOTO statement? Why it is used? Wrtie its syntx along with an example.
+6) Write a program to demonstrate Switch-Case statemenet.
+
+7)What is DO-While statement? Why is it used? Wrtie its synex along with an example.
+8)Write a program to demonstrate nested if statemenet.
+9)Write atleast four string hnadling functions.Write their purpose,syntex and example.[2 times]
+
+10) Write a program t0 search an element from an array of 20 elements.
+11) Define Array. How to declare an array? Also compare Static Array and Dynamic Array.
+12) Write a program to store name,Roll no of 10 students in memory and print them.
+
+13) Write a program to find the factorial value of N by using user-defined function.[2 times]
+14) What is union? Give an example . Also compare in between structure and union. [2 times]
+
+15)Write a program to generate a Fibonacci sequence upto N by using user-defined function.
+
+16)What is Pointer? How to initilize a pointer variable? Also write the advantages of pointer.
+
+17) Define File. Describe in brief about Random Access of file along with its benifits.
+18)Write the syntex for opening a file and closing a file. Also discuss various file operations. [2 times]
+
+19) How errors can be handled during I/O operations in a file? Discuss.
+20) Explain the terms character set , tokens, constant, variables and identifiers in C.[2 times]
+21) Explain different types of type conversion in C with suitable examples.
+22) Write a C program to check if leap year or not.
